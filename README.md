@@ -7,7 +7,7 @@ The Rupay Financial Services Repository serves as a comprehensive platform for m
 **Routine Payments**: Efficiently manage routine payments, including transfers and merchant transactions, within a secure environment. Users can initiate transactions seamlessly, ensuring smooth financial operations.
 
   
-**Freeze Payment** : This feature lets users temporarily set aside a portion of their balance to meet minimum requirements. Users decide how much to freeze and for how long. We manage the payment for them to ensure they maintain the minimum balance. During this period, a small fee of 0.01% per day is charged on the total frozen amount, ensuring fairness and transparency. **This prevents users from falling below the minimum balance..**
+**Freeze Payment** : This feature lets users temporarily set aside a portion of their balance to meet minimum requirements. Users decide how much to freeze and for how long. We manage the payment for them to ensure they maintain the minimum balance. During this period, a small fee of 0.01% per day is charged on the total frozen amount, ensuring fairness and transparency. **This prevents users from falling below the minimum balance.**
 
 **Credit Borrow or lend:** Our platform facilitates borrowing and lending transactions at rates that can be negotiated between parties involved. Whether you're looking to borrow funds or lend your surplus, you can set and agree upon interest rates that suit both parties.
 
